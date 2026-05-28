@@ -1,4 +1,4 @@
-Pizza Sales Analysis Dashboard
+# Pizza Sales Analysis Dashboard
 ## Tools Used
   - EXCEL
   - MySQL
